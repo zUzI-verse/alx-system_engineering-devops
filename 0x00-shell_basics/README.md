@@ -1,1 +1,2 @@
-yourcontentgoeshere
+#!/bin/bash
+ GUIisGr8
